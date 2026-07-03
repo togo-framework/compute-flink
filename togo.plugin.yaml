@@ -1,0 +1,8 @@
+name: compute-flink
+description: Compute backend — submit jobs to Apache Flink.
+priority: 51
+backend:
+  package: github.com/togo-framework/compute-flink
+migrations: []
+frontend: { dir: "" }
+commands: []
